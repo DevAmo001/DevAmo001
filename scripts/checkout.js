@@ -9,10 +9,11 @@ cart.forEach((cartItem) => {
   let matchingProduct;
 
   products.forEach((product) => {
-    if (productId === productId) {
+    if (product.id === productId) {
       matchingProduct = product;
     }
   });
+  console.log(matchingProduct);
 
   cartSummaryHtML = `
   <div class="cart-item-container">
@@ -29,7 +30,7 @@ cart.forEach((cartItem) => {
             ${matchingProduct.name}
           </div>
           <div class="product-price">
-            $${matchingProduct.priceCents / 100}
+            $${(matchingProduct.priceCents / 100).toFixed(2)}
           </div>
           <div class="product-quantity">
             <span>
