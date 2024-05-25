@@ -13,9 +13,8 @@ cart.forEach((cartItem) => {
       matchingProduct = product;
     }
   });
-  console.log(matchingProduct);
 
-  cartSummaryHtML = `
+  cartSummaryHtML += `
   <div class="cart-item-container">
       <div class="delivery-date">
         Delivery date: Tuesday, June 21
