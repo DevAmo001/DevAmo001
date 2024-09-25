@@ -1,4 +1,4 @@
 # Amos-Kipruto
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=DevAmo001&theme=vue-dark&hide_border=true
+![image](https://github.com/user-attachments/assets/7cda2f37-8962-46ed-b7a6-5ce3623cee17)
