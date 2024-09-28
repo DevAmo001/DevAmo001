@@ -26,7 +26,7 @@ I love transforming designs into beautiful, functional websites and applications
 Here are a few of my favorite projects:
 
 ### 1. [Number-system-conversion](https://github.com/DevAmo001/Number-system-conversion)
-A weather forecasting app using real-time API data, built with HTML, CSS, JavaScript, and React.js.
+The system converts decimal numbers to binary, octal and hexadecimal numbers and vice versa depending on the type of number system the user choose to convert.
 
 ## How to Reach Me
 
