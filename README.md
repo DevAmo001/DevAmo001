@@ -31,6 +31,8 @@ The system converts decimal numbers to binary, octal and hexadecimal numbers and
 This project is a "Netflix-inspired website" built using HTML, CSS, and JavaScript. It aims to replicate the core design and user interface of Netflix, offering a smooth and visually appealing experience.While still in development, the clone will feature dynamic content display and responsive design, enhancing both usability and aesthetics.
 ### 3.[To-do List](https://github.com/DevAmo001/To-Do-List)
 A simple To-Do List web app built with HTML, CSS, and JavaScript that allows users to add tasks, set specific due dates for each task, and manage their tasks effectively.
+### 4.[Rock Paper Scissor](https://github.com/DevAmo001/Rock-Paper-Scissor-Game)
+A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. Players choose rock, paper, or scissors to compete against a randomly generated computer choice. The game implements basic rules and displays the result instantly.
 
 ## How to Reach Me
 
