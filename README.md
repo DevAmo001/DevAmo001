@@ -45,13 +45,10 @@ Feel free to explore this repository and contact me if you have any questions or
 
 Thank you for visiting my repository!
 
-![image](https://github.com/user-attachments/assets/be5f5764-2d2c-4a8a-b09f-eabf5746f098)
+![image](https://github.com/user-attachments/assets/d87180c8-092d-4f9b-8ace-005b59a20342)
 
+![image](https://github.com/user-attachments/assets/348c2c72-74da-43c5-8175-c9611db4d596)
 
-![image](https://github.com/user-attachments/assets/d8301595-9849-49f4-b850-e67088126560)
-
-
-![image](https://github.com/user-attachments/assets/d81c3b23-192c-4b37-800e-adc5e7b00a00)
-
+![image](https://github.com/user-attachments/assets/29cd3549-f6f4-4cf5-9774-6d4ef3199dae)
 
 
