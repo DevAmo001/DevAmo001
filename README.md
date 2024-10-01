@@ -27,6 +27,10 @@ Here are a few of my favorite projects:
 
 ### 1. [Number-system-conversion](https://github.com/DevAmo001/Number-system-conversion)
 The system converts decimal numbers to binary, octal and hexadecimal numbers and vice versa depending on the type of number system the user choose to convert.
+### 2. [Netlix-Website-clone](https://github.com/DevAmo001/Netflix-website-clone)
+This project is a "Netflix-inspired website" built using HTML, CSS, and JavaScript. It aims to replicate the core design and user interface of Netflix, offering a smooth and visually appealing experience.While still in development, the clone will feature dynamic content display and responsive design, enhancing both usability and aesthetics.
+### 3.[To-do List](https://github.com/DevAmo001/To-Do-List)
+A simple To-Do List web app built with HTML, CSS, and JavaScript that allows users to add tasks, set specific due dates for each task, and manage their tasks effectively.
 
 ## How to Reach Me
 
