@@ -45,7 +45,8 @@ Feel free to explore this repository and contact me if you have any questions or
 
 ---
 
-Thank you for visiting my repository!
+Thank you for visiting my repository!\
+
 ![image](https://github.com/user-attachments/assets/1702174b-60c9-429c-ba15-16533ac9f1a2)
 
 ![image](https://github.com/user-attachments/assets/da211e0d-d0de-466c-b042-bb2d100d07fd)
