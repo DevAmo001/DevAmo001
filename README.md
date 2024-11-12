@@ -8,6 +8,7 @@ I specialize in frontend development, working with technologies such as:
 
 - **HTML5**
 - **CSS3 (SASS/SCSS)**
+- **Bootstrap**
 - **JavaScript (ES6+)**
 - **React.js**
 
