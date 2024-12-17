@@ -30,8 +30,8 @@ Here are a few of my favorite projects:
 This project marks my first journey into React development, focusing on understanding and building with React components. My aim is to set up a clean, well-organized environment that leverages React's component-based architecture for efficient and dynamic UI creation.
 ### 2. [Netlix-Website-clone](https://github.com/DevAmo001/Netflix-website-clone)
 This project is a "Netflix-inspired website" built using HTML, CSS, and JavaScript. It aims to replicate the core design and user interface of Netflix, offering a smooth and visually appealing experience.While still in development, the clone will feature dynamic content display and responsive design, enhancing both usability and aesthetics.
-### 3.[To-do List](https://github.com/DevAmo001/To-Do-List)
-A simple To-Do List web app built with HTML, CSS, and JavaScript that allows users to add tasks, set specific due dates for each task, and manage their tasks effectively.
+### 3.[Amazon E-commerce website](https://github.com/DevAmo001/Amazon-project)
+A responsive e-commerce website replicating the look and feel of Amazon, built using HTML, CSS, and JavaScript. The project includes features like product listings, a user-friendly navigation bar, and an interactive shopping cart. This clone showcases frontend skills in creating dynamic layouts and improving user experience.
 ### 4.[Rock Paper Scissor](https://github.com/DevAmo001/Rock-Paper-Scissor-Game)
 A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. Players choose rock, paper, or scissors to compete against a randomly generated computer choice. The game implements basic rules and displays the result instantly.
 
@@ -49,10 +49,9 @@ Feel free to explore this repository and contact me if you have any questions or
 Thank you for visiting my repository!\
 
 ![image](https://github.com/user-attachments/assets/1702174b-60c9-429c-ba15-16533ac9f1a2)
+![image](https://github.com/user-attachments/assets/ffa997e0-910c-4428-93ad-a76356bf4cf9)
+![image](https://github.com/user-attachments/assets/f6a01285-02bb-4e9b-b34d-3752bceab84b)
 
-![image](https://github.com/user-attachments/assets/da211e0d-d0de-466c-b042-bb2d100d07fd)
-
-![image](https://github.com/user-attachments/assets/d54bd672-a8df-4154-892f-b4c78545d46b)
 
 
 
