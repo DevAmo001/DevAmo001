@@ -1,11 +1,13 @@
+// function to generate a shopping cart object using OOP principles
 function Cart(localStorageKey) {
+  // Simulate a shopping cart using OOP principles
   const cart = {
-    cartItems: undefined,
-  
-      loadFromStorage() {
+    cartItems : undefined,
+
+    loadFromStorage() {
       this.cartItems = JSON.parse(localStorage.getItem(localStorageKey));
     
-        if (!this.cartItems) {
+      if (!this.cartItems) {
         this.cartItems = [{
           productId: 
           'e43638ce-6aa0-4b85-b27f-e1d07eb678c6',
@@ -17,13 +19,13 @@ function Cart(localStorageKey) {
           quantity: 1,
           deliveryOptionId: '2'
         }];
-        }
+      }
     },
-  
-     saveToStorage() {
+
+    saveToStorage() {
       localStorage.setItem(localStorageKey, JSON.stringify(this.cartItems));
     },
-  
+
     addToCart(productId) {
       let matchingItem;
     
@@ -45,8 +47,8 @@ function Cart(localStorageKey) {
     
         this.saveToStorage();
     },
-  
-     removeFromCart(productId) {
+
+    removeFromCart(productId) {
       const newCart = [];
     
       this.cartItems.forEach((cartItem) => {
@@ -59,8 +61,8 @@ function Cart(localStorageKey) {
     
       this.saveToStorage();
     },
-  
-     updateDeliveryOption(productId, deliveryOptionId) {
+
+    updateDeliveryOption(productId, deliveryOptionId) {
       let matchingItem;
     
       this.cartItems.forEach((cartItem)=> {
@@ -86,4 +88,4 @@ cart.loadFromStorage();
 businessCart.loadFromStorage();
 
 console.log(cart);
-console.log(businessCart);
+console.log(businessCart)
