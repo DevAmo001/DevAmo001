@@ -6,14 +6,14 @@ Welcome to my personal repository! I’m **Amos Kipruto**, a passionate Web Deve
 
 I am a full-stack developer with a strong foundation in frontend development and a growing expertise in backend development. My skill set includes:
 
-##FRONTEND DEVELOPMENT :-
+## FRONTEND DEVELOPMENT :-
 - **HTML5**
 - **CSS3 (SASS/SCSS)**
 - **Bootstrap**
 - **JavaScript (ES6+)**
 - **React.js**
 
-##FRONTEND DEVELOPMENT :-
+## FRONTEND DEVELOPMENT :-
 - **Python**
 - **Django**
 - **SQLite (For lightweight projects)**
