@@ -13,7 +13,7 @@ I am a full-stack developer with a strong foundation in frontend development and
 - **JavaScript (ES6+)**
 - **React.js**
 
-## FRONTEND DEVELOPMENT
+## BACKEND DEVELOPMENT
 - **Python**
 - **Django**
 - **SQLite (For lightweight projects)**
@@ -23,7 +23,7 @@ I love transforming designs into beautiful, functional websites and applications
 
 ## Skills
 
-## Frontend
+ **FRONTEND**
 - **HTML5**: Crafting clean, semantic, and accessible markup.
 - **CSS3**: Styling responsive, flexible layouts with SCSS.
 - **JavaScript**: Creating dynamic and interactive web applications.
