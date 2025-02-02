@@ -4,13 +4,20 @@ Welcome to my personal repository! I’m **Amos Kipruto**, a passionate Web Deve
 
 ## About Me
 
-I specialize in frontend development, working with technologies such as:
+I am a full-stack developer with a strong foundation in frontend development and a growing expertise in backend development. My skill set includes:
 
+##FRONTEND DEVELOPMENT :-
 - **HTML5**
 - **CSS3 (SASS/SCSS)**
 - **Bootstrap**
 - **JavaScript (ES6+)**
 - **React.js**
+
+##FRONTEND DEVELOPMENT :-
+- **Python**
+- **Django**
+- **SQLite (For lightweight projects)**
+- **PostgreSQL (For robust, production-ready databases)**
 
 I love transforming designs into beautiful, functional websites and applications that provide great user experiences. I'm also constantly learning and improving my skills, especially in modern JavaScript frameworks and responsive design.
 
@@ -48,11 +55,12 @@ Feel free to explore this repository and contact me if you have any questions or
 
 Thank you for visiting my repository!\
 
-![image](https://github.com/user-attachments/assets/1702174b-60c9-429c-ba15-16533ac9f1a2)
+![image](https://github.com/user-attachments/assets/5f740458-b9a3-4b52-80fd-29d29cf12d0f)
 
-![image](https://github.com/user-attachments/assets/ffa997e0-910c-4428-93ad-a76356bf4cf9)
+![image](https://github.com/user-attachments/assets/a4e6237c-7d5c-4b73-9b63-7af1b1b2b04d)
 
-![image](https://github.com/user-attachments/assets/f6a01285-02bb-4e9b-b34d-3752bceab84b)
+![image](https://github.com/user-attachments/assets/370b8b62-652e-4972-a3b3-a3248d4e8407)
+
 
 
 
